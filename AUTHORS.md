@@ -3,7 +3,7 @@
 | Node (Institution) | Role in MWG | Name  | ORCID | E-mail |
 |------|------|-------------|-------|--------|
 | CEGA (EMBL-EBI) | MWG Co-chair | Marcos Casado Barbero | [0000-0002-1234-5678](https://orcid.org/0000-0002-7747-6256) | mcasado [at] ebi.ac.uk |
-| GHGA (EMBL) | MWG Co-chair | Anandhi lyappan |  | |
+| GHGA (EMBL) | MWG Co-chair | Anandhi lyappan | [0000-0002-5571-4962] (https://orcid.org/0000-0002-5571-4962) |anandhi.iyappan [at] embl.de |
 | FEGA Portugal () | MWG Co-chair | Jorge Oliveira |  | |
 | CEGA (EMBL-EBI) | Member | Coline Thomas | [0000-0003-2253-1171](https://orcid.org/0000-0003-2253-1171) | cthomas [at] ebi.ac.uk |
 | CEGA (EMBL-EBI) | Member | Silvia Bahena | [0000-0002-2734-0449](https://orcid.org/0000-0002-2734-0449) | sbahena [at] ebi.ac.uk |
